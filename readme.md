@@ -13,7 +13,7 @@ Navigate to http://bitcoinuptime.com or coinuptime.com. I also own doge.coinupti
 
 MIT License
 
-Copyright (c) 2016 BitcoinUptime
+Copyright (c) 2018 AndrewClk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
